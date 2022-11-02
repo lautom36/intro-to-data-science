@@ -1,0 +1,2 @@
+score with no changes         -> .52444
+score after dropping density  -> .
