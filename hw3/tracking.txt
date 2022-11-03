@@ -1,2 +1,3 @@
 score with no changes         -> .52444
 score after dropping density  -> .52888
+score after setting batch size to 32 -> .51111
